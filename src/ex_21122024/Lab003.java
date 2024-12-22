@@ -1,4 +1,4 @@
-package ex_22122024;
+package ex_21122024;
 
 public class Lab003 {
     // Single Comment - This code will not run or executed
