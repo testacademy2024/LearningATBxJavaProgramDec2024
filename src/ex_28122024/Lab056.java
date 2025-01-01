@@ -16,7 +16,7 @@ public class Lab056 {
         // Narrowing
         double val = 300000.34566;
         //byte b1 = val; // Invalid - Implicit Casting - JVM
-        short b1 = (byte) val; // InVALID – Explicit Casting - // Loss of data
+        short b1 = (short) val; // InVALID – Explicit Casting - // Loss of data
         System.out.println(b1);
 
 
